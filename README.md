@@ -37,9 +37,7 @@ To analyze customer behavior and uncover why users leave the service (“churn�
 
 ### 📁 Deliverables
 
-- [Excel file (.xlsx)](https://github.com/Lil729/customer-churn-dashboard/blob/main/Telco-Churn-Analysis.xlsx)
-- [Power BI dashboard (.pbix)](https://github.com/Lil729/customer-churn-dashboard/blob/main/CustomerChurn.pbix)
-- [Dashboard Screenshot (.png)](https://github.com/Lil729/customer-churn-dashboard/blob/main/images/customer-churn-dashboard.png)
+- [Power BI dashboard (.pbix)](https://github.com/Lil729/Customer-Churn-Analysis/blob/main/WA%20churn.pbix)
 
 ---
 
@@ -54,7 +52,8 @@ To analyze customer behavior and uncover why users leave the service (“churn�
 
 ### 🖼️ Dashboard Preview
 
-![Customer Churn Dashboard](https://github.com/Lil729/customer-churn-dashboard/blob/main/images/customer-churn-dashboard.png)
+![Customer Churn Dashboard](https://github.com/Lil729/Customer-Churn-Analysis/blob/main/Screenshot%202025-06-26%20202654.png)
 
 ---
+
 
